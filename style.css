@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+ul{
+    background-color: #1E1E1E;
+    display: flex;
+    height: 15vh;
+    color:aliceblue;
+    align-items: center;
+    justify-content: space-evenly;
+}
+li{
+    list-style: none;
+    font-family: 'Mooli', sans-serif;
+    font-size: 1.8rem;
+    cursor:pointer;
+}
+.banner{
+    width: 98.8vw;
+    height: 50vh;
+}
+.PrimeiroTrio{
+    display:flex;
+    justify-content: space-evenly;
+    margin:4rem;
+    height: 60vh;
+    cursor:pointer;
+
+}
+.SegundoTrio{
+    display:flex;
+    justify-content: space-evenly;
+    margin:4rem;
+    height: 60vh;
+    cursor:pointer;
+
+}
+.rodape{
+    display:flex;
+    justify-content: space-between;
+    background-color: #1E1E1E;
+}
+h3{
+    align-items: center;
+    margin-top: 5%;
+    color:aliceblue;
+}
