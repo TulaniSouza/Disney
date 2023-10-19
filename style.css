@@ -66,9 +66,9 @@ h3{
      .PrimeiroTrio, .SegundoTrio{
        flex-direction: column;
        justify-content: center;
-       width: 38%;
-       height: 38%;
-       margin-left:40%;
+       width: 52%;
+       height: 52%;
+       margin-left:28%;
        cursor:pointer;
     }
 } 
